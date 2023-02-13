@@ -1,1 +1,2 @@
 Prvi ispis datoteka 1
+Drugi ispis datoteka 1, ali sada na develop grani
