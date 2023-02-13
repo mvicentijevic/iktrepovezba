@@ -1,2 +1,4 @@
 Prvi ispis datoteka 1
 Ispid drugi, sada u masteru, da bi se razlikovalo cisto
+Drugi ispis datoteka 1, ali sada na develop grani
+
