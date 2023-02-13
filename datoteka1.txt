@@ -1,1 +1,2 @@
 Prvi ispis datoteka 1
+Ispid drugi, sada u masteru, da bi se razlikovalo cisto
